@@ -1,5 +1,7 @@
 Operators 
     1. Math operators: +, -, *, /
+            +=      => increment
+            -=      => decrement
     2. Comparision operators             [ true / false ]
         1. >  greater than
         2. <  less than
