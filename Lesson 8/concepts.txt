@@ -18,4 +18,3 @@ Loop statment
     What to include inside the body?
         console.log("Hello World");
 
-        

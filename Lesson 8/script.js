@@ -22,7 +22,9 @@
 // Write a program that counts to 30 and prints "Tech" if the number is divisible by 3, "Back" if the number is divisible by 5,
 // "TechBack" if the number is divisible by 3 and 5 together. counter % 3 === 0
 
-// for (let counter = 0; counter < 30; counter += 1) {
+// for (let c
+
+// counter = 0; counter < 30; counter += 1) {
 //   console.log("Counter: " + counter);
 //   if (counter % 3 == 0 && counter % 5 === 0) {
 //     console.log("TechBack");
