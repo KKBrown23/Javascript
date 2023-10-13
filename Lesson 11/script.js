@@ -32,18 +32,18 @@
 // Cal - checks whether one is greater than the other
 // Out - if the first one is greater then it will return the product, else it will return the difference
 
-function checkIfGreater(number1, number2) {
-  if (number1 >= number2) {
-    let product;
-    product = number1 * number2;
-    return product;
-  } else {
-    let difference;
-    difference = number1 - number2;
-    return difference;
-  }
-}
+// function checkIfGreater(number1, number2) {
+//   if (number1 >= number2) {
+//     let product;
+//     product = number1 * number2;
+//     return product;
+//   } else {
+//     let difference;
+//     difference = number1 - number2;
+//     return difference;
+//   }
+// }
 
-let result;
-result = checkIfGreater(63, 76);
-console.log(result);
+// let result;
+// result = checkIfGreater(63, 76);
+// console.log(result);

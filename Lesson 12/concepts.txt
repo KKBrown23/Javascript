@@ -36,9 +36,11 @@ Functions
                     let sum2 = addTwoNumbers(334,-1);
                     let sum3 = addTwoNumbers(4,60);
                     let sum4 = addTwoNumbers(67,580);
-HW:
-    1. // write a function that takes as parameter 2 numbers and returns the smallest of them
-    2. Write a function that generates and returns a random number
-    3. Write a function that takes a name and returns "Hello" + the name
-    4. Write a function that takes 2 numbers and return true if
-         their product is the same as their sum, else returns false
+HW: 
+        1. Create a function that calculates and returns a person's Body Mass Index (BMI).
+         Use if statements to categorize the BMI as underweight, normal weight, overweight, or obese.
+
+        2. Create a function that plays a number guessing game. The function generates a random number, 
+        and the player has to guess it. Then it return win or if the guess is too high or too low.
+        
+        3. Create a function that takes a number (1-7) and returns the corresponding day of the week.
